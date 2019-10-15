@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../libOne/include/test1.h
+
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/main.cpp
+iostream
+-
+test1.h
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/test1.h
+

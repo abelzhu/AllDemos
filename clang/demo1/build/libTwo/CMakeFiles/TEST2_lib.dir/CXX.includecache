@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/../libOne/include/test1.h
+
+/Users/abel/Documents/gitprojects/AllDemos/clang/libTwo/include/test2.h
+
+/Users/abel/Documents/gitprojects/AllDemos/clang/libTwo/src/test2.cpp
+iostream
+-
+test2.h
+/Users/abel/Documents/gitprojects/AllDemos/clang/libTwo/src/test2.h
+test2.h
+/Users/abel/Documents/gitprojects/AllDemos/clang/libTwo/src/test2.h
+test1.h
+/Users/abel/Documents/gitprojects/AllDemos/clang/libTwo/src/test1.h
+

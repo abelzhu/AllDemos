@@ -1,0 +1,9 @@
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/CMakeFiles/rebuild_cache.dir
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/CMakeFiles/edit_cache.dir
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/CMakeFiles/demo.dir
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/libOne/CMakeFiles/rebuild_cache.dir
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/libOne/CMakeFiles/edit_cache.dir
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/libOne/CMakeFiles/TEST1_lib.dir
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/libTwo/CMakeFiles/rebuild_cache.dir
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/libTwo/CMakeFiles/edit_cache.dir
+/Users/abel/Documents/gitprojects/AllDemos/clang/demo1/build/libTwo/CMakeFiles/TEST2_lib.dir
