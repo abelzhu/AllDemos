@@ -3,7 +3,7 @@
 import time
 
 # x = '123456'
-# ex = 'exit'
+ex = 'exit'
 # # print(ex)
 # while True:
 
@@ -20,6 +20,16 @@ import time
 #         print('Not in the string!')
 
 # using time
-for i in range(1,12):
+# for i in range(1,12):
+#     print(i)
+#     time.sleep(1)
+i = int(input('input num:'))
+while i < 13:
+    if i == 5:
+        i += 1
+        continue
     print(i)
-    time.sleep(2)
+    i += 1
+else:
+    print('else print %s' %(i))
+
