@@ -3,5 +3,5 @@
     "files.associations": {
         "*.ipp": "cpp"
     },
-    "python.pythonPath": "/Users/abel/anaconda3/envs/poc_py37/bin/python"
+    "python.pythonPath": "/Users/abel/anaconda3/envs/python346/bin/python"
 }
