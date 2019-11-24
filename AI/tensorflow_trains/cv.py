@@ -13,7 +13,9 @@ callbacks = callbacks.myCallback()
 
 (training_images, trainnig_labels), (test_images, test_labels) = fashion_mnist.load_data()
 
-
+# 1.2 normalized
+training_images = training_images / 255
+test_images = test_images / 255
 
 # 2.design the model
 model = keras.models.Sequential([keras.layers.Flatten(),
@@ -30,3 +32,6 @@ model.fit(training_images, trainnig_labels, epochs=5, callbacks=[callbacks])
 # 5.evaluate using model
 model.evaluate(test_images, test_labels)
 # 6.predict using model
+predictions = model.predict(test_images)
+print(predictions[0])
+print(test_labels[0])

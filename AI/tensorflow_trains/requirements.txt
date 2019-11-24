@@ -1,0 +1,8 @@
+# pip install pip -U # 升级 pip 到最新的版本 (>=10.0.0) 后进行配置
+# pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+tensorflow==2
+scipy
+matplotlib
+numpy
+pip install pillow
